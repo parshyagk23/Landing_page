@@ -57,6 +57,7 @@ html,body{
     line-height: 32px;
     margin-top: 20px;
     align-self: flex-start;
+    text-align: justify;
 }
 input{
   color: #000000;
@@ -78,6 +79,7 @@ input{
     line-height: 54px;
     /* width: 562px; */
     align-self: flex-start;
+    
     
   }
 
